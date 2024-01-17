@@ -1,0 +1,2 @@
+# FluentValidationInAspCore
+FluentValidation Deneme Projesi
