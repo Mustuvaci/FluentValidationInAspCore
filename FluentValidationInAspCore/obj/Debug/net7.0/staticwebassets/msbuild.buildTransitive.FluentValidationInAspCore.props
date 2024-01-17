@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\FluentValidationInAspCore.props" />
+</Project>
